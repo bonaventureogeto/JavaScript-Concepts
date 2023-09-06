@@ -6,3 +6,4 @@
 <h2>Folder Structure</h2>
 
 - <a href="./confused">The Confusing parts</a>
+- <a href="./gotchas">The Gotchas</a>
